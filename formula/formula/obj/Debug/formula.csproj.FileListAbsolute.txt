@@ -1,0 +1,8 @@
+E:\project\sharp\formula\formula\bin\Debug\formula.exe.config
+E:\project\sharp\formula\formula\bin\Debug\formula.exe
+E:\project\sharp\formula\formula\bin\Debug\formula.pdb
+E:\project\sharp\formula\formula\obj\Debug\formula.csproj.AssemblyReference.cache
+E:\project\sharp\formula\formula\obj\Debug\formula.csproj.SuggestedBindingRedirects.cache
+E:\project\sharp\formula\formula\obj\Debug\formula.csproj.CoreCompileInputs.cache
+E:\project\sharp\formula\formula\obj\Debug\formula.exe
+E:\project\sharp\formula\formula\obj\Debug\formula.pdb
